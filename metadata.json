@@ -1,0 +1,6 @@
+{
+  "name": "Cetak Resi A4 - Template Resi Multi-Up",
+  "description": "Upload file PDF resi pengiriman Anda dan susun otomatis ke kertas A4 dengan pilihan 2, 4, 6, 8, atau 10 resi per lembar siap unduh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
